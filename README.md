@@ -1,1 +1,3 @@
 # Baseball-Performance
+This project examines the relationship between financial investment in player payroll, performance metrics and team success in Major League Baseball (MLB) measured by wins. Using historical MLB data from the Baseball Databank available on Kaggle, multiple regression model is constructed to analyze the extent to which payroll and performance metrics impact team success. The findings provide insights into key performance indicators for teams aiming to optimize success in professional baseball.
+Performance metrics - Runs Scored and ERA - are the strongest predictors of team success, while payroll has a more limited effect. MLB teams can maximize wins through data-driven strategies that emphasize performance over spending. 
