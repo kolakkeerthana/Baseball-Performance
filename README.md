@@ -1,1 +1,11 @@
 Baseball, often referred to as America's pastime, is far more than just a game—it is a billion-dollar industry where team success can make or break franchises. Major League Baseball (MLB) teams compete not only on the field but also in financial investments, with wealthier teams often considered favorites for championships. The perception is simple: spend more, win more. This narrative has been reinforced by teams like the New York Yankees, whose large payrolls have historically led to dominance. However, the reality is more complex. While financial power allows teams to attract high-profile players, performance metrics like runs scored (R) and earned run average (ERA) measure the actual quality of offensive and defensive play. A dataset has been downloaded from Kaggle Baseball Databank which is a compilation of historical baseball data for 34 years. The dataset consists of various tables where in we use Salaries and Team data to perform the Regression analysis using R programming. The aggregated salary table combined with the teams table would be used for visualization. To understand the graph between Wins and Total Payroll, Wins vs ERA, and Wins vs Runs Scored it is linear trend, negative relationship and steep upward trajectory, respectively. Residual Analysis has been performed to validate the model's fitness resulting in relatively low Mean squared error(MSE) when tested on unseen data. This shows that performance metrics - Runs Scored and are the strongest predictors of team success, while payroll has a more limited effect.
+
+<img width="464" alt="Screenshot 2024-12-17 at 1 49 34 PM" src="https://github.com/user-attachments/assets/164b8342-055f-4cb6-8b4a-3cfdd214e573" />
+
+<img width="447" alt="Screenshot 2024-12-17 at 1 49 13 PM" src="https://github.com/user-attachments/assets/c01c2140-cf5f-488d-8521-c44a9f7aaca0" />
+
+<img width="435" alt="Screenshot 2024-12-17 at 1 48 46 PM" src="https://github.com/user-attachments/assets/5683a8a6-0359-4064-b020-dc88e41dbb38" />
+Residual analysis:
+<img width="464" alt="Screenshot 2024-12-17 at 1 50 28 PM" src="https://github.com/user-attachments/assets/7fead78a-4aed-4447-b590-7d0e1be0f1df" />
+
+<img width="439" alt="Screenshot 2024-12-17 at 1 50 38 PM" src="https://github.com/user-attachments/assets/a16ca95a-a760-49aa-a735-0e88820df5ea" />
